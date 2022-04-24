@@ -32,8 +32,7 @@ class CabDriver():
 
 
     ## Encoding state for NN input
-    ## NOTE: Considering Architecture 2 given in the problem statement (where Input: STATE ONLY)
-    ## --->Used in Agent_Architecture2_(Input_State_only).ipynb
+  
 
     def state_encod_arch2(self, state):
         """convert the state into a vector so that it can be fed to the NN. This method converts a given state into a vector format. Hint:
@@ -57,10 +56,6 @@ class CabDriver():
         return state_encod
 
     ## Encoding (state-action) for NN input
-    ## Use this function if you are using architecture-1 
-    ## def state_encod_arch2(self, state, action):
-    ##     """convert the (state-action) into a vector so that it can be fed to the NN. This method converts a given state-action pair into
-    ## a vector format. Hint: The vector is of size m + t + d + m + m."""
 
 
     
