@@ -5,7 +5,7 @@ of the week.\
 *AI environment of 5 cities was designed following Markov Decision Process
 and requests were generated randomly.\
 *The agent brain was built using Deep Q-learning.\
-*Agent_Architecture.ipynb - Code for the Deep Q-learning model
-*DQN_model.h5 - Trained Deep Q-learning model
-*Env.py - Python code for designing the environment simulation based on Markov Decision Process
+*Agent_Architecture.ipynb - Code for the Deep Q-learning model\
+*DQN_model.h5 - Trained Deep Q-learning model\
+*Env.py - Python code for designing the environment simulation based on Markov Decision Process\
 *model_weights.pkl - saved trained model weights
